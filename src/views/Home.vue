@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h1>Adopt a new best friend</h1>
+    <h2>Designed by Jotham Edoreh</h2>
     {{ getAllCats.length }}
     {{ animalsCount }}
 
